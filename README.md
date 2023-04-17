@@ -1,4 +1,4 @@
-# NLP Pipeline for News Summarization
+# News Summarization
 
 ## Introduction:
 This NLP pipeline aims to summarize news articles scraped from various sources by removing redundant and unnecessary sentences from the content. The pipeline uses TF-IDF to identify the most important sentences in the article and generates a summary based on these sentences. The summary can then be used for further NLP tasks such as named entity recognition.
